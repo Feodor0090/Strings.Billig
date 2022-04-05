@@ -1,0 +1,12 @@
+/home/ansel/repos/СтрингиЪ/СтрингиЪ/bin/Debug/net5.0/СтрингиЪ.deps.json
+/home/ansel/repos/СтрингиЪ/СтрингиЪ/bin/Debug/net5.0/СтрингиЪ.dll
+/home/ansel/repos/СтрингиЪ/СтрингиЪ/bin/Debug/net5.0/ref/СтрингиЪ.dll
+/home/ansel/repos/СтрингиЪ/СтрингиЪ/bin/Debug/net5.0/СтрингиЪ.pdb
+/home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/Debug/net5.0/СтрингиЪ.csproj.AssemblyReference.cache
+/home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/Debug/net5.0/СтрингиЪ.GeneratedMSBuildEditorConfig.editorconfig
+/home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/Debug/net5.0/СтрингиЪ.AssemblyInfoInputs.cache
+/home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/Debug/net5.0/СтрингиЪ.AssemblyInfo.cs
+/home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/Debug/net5.0/СтрингиЪ.csproj.CoreCompileInputs.cache
+/home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/Debug/net5.0/СтрингиЪ.dll
+/home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/Debug/net5.0/ref/СтрингиЪ.dll
+/home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/Debug/net5.0/СтрингиЪ.pdb
