@@ -16,11 +16,8 @@ namespace СтрингиЪ_тесты
         public void MyIndexOf()
         {
             string str = "dfu1hf1138198f111fk1s1df1k1ldf1jk_if18873r1u1h11e1";
-            for (int i = 0; i < short.MaxValue; i++)
-            {
-                char sub = (char)i;
-                Assert.AreEqual(str.IndexOf(sub), Strings.MyIndexOf(str, sub.ToString()));
-            }
+            string sub = "u1" ;
+                Assert.AreEqual(str.IndexOf(sub), );
         }
 
         [Test]
@@ -31,7 +28,7 @@ namespace СтрингиЪ_тесты
             {
                 string sub = ((char)i) + "1";
                 Assert.AreEqual(str.IndexOf(sub, StringComparison.Ordinal), Strings.MyIndexOf(str, sub));
-            }
+            }`
         }
 
         [Test]

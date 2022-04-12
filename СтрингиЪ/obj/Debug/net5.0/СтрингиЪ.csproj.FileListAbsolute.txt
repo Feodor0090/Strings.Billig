@@ -10,3 +10,15 @@
 /home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/Debug/net5.0/СтрингиЪ.dll
 /home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/Debug/net5.0/ref/СтрингиЪ.dll
 /home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/Debug/net5.0/СтрингиЪ.pdb
+C:\Users\asus\Source\Repos\Strings.Billig\СтрингиЪ\bin\Debug\net5.0\СтрингиЪ.deps.json
+C:\Users\asus\Source\Repos\Strings.Billig\СтрингиЪ\bin\Debug\net5.0\СтрингиЪ.dll
+C:\Users\asus\Source\Repos\Strings.Billig\СтрингиЪ\bin\Debug\net5.0\ref\СтрингиЪ.dll
+C:\Users\asus\Source\Repos\Strings.Billig\СтрингиЪ\bin\Debug\net5.0\СтрингиЪ.pdb
+C:\Users\asus\Source\Repos\Strings.Billig\СтрингиЪ\obj\Debug\net5.0\СтрингиЪ.csproj.AssemblyReference.cache
+C:\Users\asus\Source\Repos\Strings.Billig\СтрингиЪ\obj\Debug\net5.0\СтрингиЪ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Source\Repos\Strings.Billig\СтрингиЪ\obj\Debug\net5.0\СтрингиЪ.AssemblyInfoInputs.cache
+C:\Users\asus\Source\Repos\Strings.Billig\СтрингиЪ\obj\Debug\net5.0\СтрингиЪ.AssemblyInfo.cs
+C:\Users\asus\Source\Repos\Strings.Billig\СтрингиЪ\obj\Debug\net5.0\СтрингиЪ.csproj.CoreCompileInputs.cache
+C:\Users\asus\Source\Repos\Strings.Billig\СтрингиЪ\obj\Debug\net5.0\СтрингиЪ.dll
+C:\Users\asus\Source\Repos\Strings.Billig\СтрингиЪ\obj\Debug\net5.0\ref\СтрингиЪ.dll
+C:\Users\asus\Source\Repos\Strings.Billig\СтрингиЪ\obj\Debug\net5.0\СтрингиЪ.pdb
