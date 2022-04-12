@@ -70,10 +70,7 @@ namespace WinFormsСтринг
             if (!String.IsNullOrEmpty(text) & !String.IsNullOrEmpty(pattern))
             {
                  res = Strings.AllIndexOf(text, pattern);
-                for (int i = 0; i < res.Count; i++)
-                {
-                    textBoxAnswer.Text += res[i].ToString() + ";";
-                }
+                 textBoxAnswer.Text = String.Join("; ", res);
             }
         }
 
@@ -115,10 +112,7 @@ namespace WinFormsСтринг
             if (!String.IsNullOrEmpty(text) & !String.IsNullOrEmpty(pattern))
             {
                 res = Strings.IndexOfKMP_Best(text, pattern);
-                for (int i = 0; i < res.Count; i++)
-                {
-                    textBoxAnswer.Text += res[i].ToString() + ";";
-                }
+                textBoxAnswer.Text = String.Join("; ", res);
             }
         }
     }
