@@ -10,3 +10,15 @@
 /home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/Debug/net5.0/СтрингиЪ.dll
 /home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/Debug/net5.0/ref/СтрингиЪ.dll
 /home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/Debug/net5.0/СтрингиЪ.pdb
+D:\1курс\основа проги\c#project\стринг\СтрингиЪ\bin\Debug\net5.0\СтрингиЪ.deps.json
+D:\1курс\основа проги\c#project\стринг\СтрингиЪ\bin\Debug\net5.0\СтрингиЪ.dll
+D:\1курс\основа проги\c#project\стринг\СтрингиЪ\bin\Debug\net5.0\СтрингиЪ.pdb
+D:\1курс\основа проги\c#project\стринг\СтрингиЪ\obj\Debug\net5.0\СтрингиЪ.csproj.AssemblyReference.cache
+D:\1курс\основа проги\c#project\стринг\СтрингиЪ\obj\Debug\net5.0\СтрингиЪ.GeneratedMSBuildEditorConfig.editorconfig
+D:\1курс\основа проги\c#project\стринг\СтрингиЪ\obj\Debug\net5.0\СтрингиЪ.AssemblyInfoInputs.cache
+D:\1курс\основа проги\c#project\стринг\СтрингиЪ\obj\Debug\net5.0\СтрингиЪ.AssemblyInfo.cs
+D:\1курс\основа проги\c#project\стринг\СтрингиЪ\obj\Debug\net5.0\СтрингиЪ.csproj.CoreCompileInputs.cache
+D:\1курс\основа проги\c#project\стринг\СтрингиЪ\obj\Debug\net5.0\СтрингиЪ.dll
+D:\1курс\основа проги\c#project\стринг\СтрингиЪ\obj\Debug\net5.0\refint\СтрингиЪ.dll
+D:\1курс\основа проги\c#project\стринг\СтрингиЪ\obj\Debug\net5.0\СтрингиЪ.pdb
+D:\1курс\основа проги\c#project\стринг\СтрингиЪ\obj\Debug\net5.0\ref\СтрингиЪ.dll

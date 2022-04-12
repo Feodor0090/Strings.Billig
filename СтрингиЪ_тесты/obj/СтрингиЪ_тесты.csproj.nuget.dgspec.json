@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/ansel/repos/СтрингиЪ/СтрингиЪ_тесты/СтрингиЪ_тесты.csproj": {}
+    "D:\\1курс\\основа проги\\c#project\\стринг\\СтрингиЪ_тесты\\СтрингиЪ_тесты.csproj": {}
   },
   "projects": {
-    "/home/ansel/repos/СтрингиЪ/СтрингиЪ/СтрингиЪ.csproj": {
+    "D:\\1курс\\основа проги\\c#project\\стринг\\СтрингиЪ\\СтрингиЪ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ansel/repos/СтрингиЪ/СтрингиЪ/СтрингиЪ.csproj",
+        "projectUniqueName": "D:\\1курс\\основа проги\\c#project\\стринг\\СтрингиЪ\\СтрингиЪ.csproj",
         "projectName": "СтрингиЪ",
-        "projectPath": "/home/ansel/repos/СтрингиЪ/СтрингиЪ/СтрингиЪ.csproj",
-        "packagesPath": "/home/ansel/.nuget/packages/",
-        "outputPath": "/home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/",
+        "projectPath": "D:\\1курс\\основа проги\\c#project\\стринг\\СтрингиЪ\\СтрингиЪ.csproj",
+        "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
+        "outputPath": "D:\\1курс\\основа проги\\c#project\\стринг\\СтрингиЪ\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/ansel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,34 +58,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ansel/repos/СтрингиЪ/СтрингиЪ_тесты/СтрингиЪ_тесты.csproj": {
+    "D:\\1курс\\основа проги\\c#project\\стринг\\СтрингиЪ_тесты\\СтрингиЪ_тесты.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ansel/repos/СтрингиЪ/СтрингиЪ_тесты/СтрингиЪ_тесты.csproj",
+        "projectUniqueName": "D:\\1курс\\основа проги\\c#project\\стринг\\СтрингиЪ_тесты\\СтрингиЪ_тесты.csproj",
         "projectName": "СтрингиЪ_тесты",
-        "projectPath": "/home/ansel/repos/СтрингиЪ/СтрингиЪ_тесты/СтрингиЪ_тесты.csproj",
-        "packagesPath": "/home/ansel/.nuget/packages/",
-        "outputPath": "/home/ansel/repos/СтрингиЪ/СтрингиЪ_тесты/obj/",
+        "projectPath": "D:\\1курс\\основа проги\\c#project\\стринг\\СтрингиЪ_тесты\\СтрингиЪ_тесты.csproj",
+        "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
+        "outputPath": "D:\\1курс\\основа проги\\c#project\\стринг\\СтрингиЪ_тесты\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/ansel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/home/ansel/repos/СтрингиЪ/СтрингиЪ/СтрингиЪ.csproj": {
-                "projectPath": "/home/ansel/repos/СтрингиЪ/СтрингиЪ/СтрингиЪ.csproj"
+              "D:\\1курс\\основа проги\\c#project\\стринг\\СтрингиЪ\\СтрингиЪ.csproj": {
+                "projectPath": "D:\\1курс\\основа проги\\c#project\\стринг\\СтрингиЪ\\СтрингиЪ.csproj"
               }
             }
           }
@@ -126,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
