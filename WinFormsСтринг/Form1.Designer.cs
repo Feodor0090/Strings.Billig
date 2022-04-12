@@ -38,6 +38,9 @@
             this.label4 = new System.Windows.Forms.Label();
             this.MyIndexOffButton = new System.Windows.Forms.Button();
             this.reference = new System.Windows.Forms.Button();
+            this.ALLIndexOff = new System.Windows.Forms.Button();
+            this.IndexOf_KPMBest = new System.Windows.Forms.Button();
+            this.IndexOf_KPMbutton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -115,8 +118,9 @@
             this.MyIndexOffButton.Name = "MyIndexOffButton";
             this.MyIndexOffButton.Size = new System.Drawing.Size(112, 35);
             this.MyIndexOffButton.TabIndex = 7;
-            this.MyIndexOffButton.Text = "MyIndexOff";
+            this.MyIndexOffButton.Text = "MyIndexOf";
             this.MyIndexOffButton.UseVisualStyleBackColor = true;
+            this.MyIndexOffButton.Click += new System.EventHandler(this.MyIndexOffButton_Click);
             // 
             // reference
             // 
@@ -128,12 +132,45 @@
             this.reference.UseVisualStyleBackColor = true;
             this.reference.Click += new System.EventHandler(this.reference_Click);
             // 
+            // ALLIndexOff
+            // 
+            this.ALLIndexOff.Location = new System.Drawing.Point(75, 267);
+            this.ALLIndexOff.Name = "ALLIndexOff";
+            this.ALLIndexOff.Size = new System.Drawing.Size(112, 35);
+            this.ALLIndexOff.TabIndex = 9;
+            this.ALLIndexOff.Text = "ALLIndexOf";
+            this.ALLIndexOff.UseVisualStyleBackColor = true;
+            this.ALLIndexOff.Click += new System.EventHandler(this.ALLIndexOff_Click);
+            // 
+            // IndexOf_KPMBest
+            // 
+            this.IndexOf_KPMBest.Location = new System.Drawing.Point(211, 267);
+            this.IndexOf_KPMBest.Name = "IndexOf_KPMBest";
+            this.IndexOf_KPMBest.Size = new System.Drawing.Size(112, 35);
+            this.IndexOf_KPMBest.TabIndex = 11;
+            this.IndexOf_KPMBest.Text = "IndexOf_KPMBest";
+            this.IndexOf_KPMBest.UseVisualStyleBackColor = true;
+            this.IndexOf_KPMBest.Click += new System.EventHandler(this.IndexOf_KPMBest_Click);
+            // 
+            // IndexOf_KPMbutton
+            // 
+            this.IndexOf_KPMbutton.Location = new System.Drawing.Point(211, 214);
+            this.IndexOf_KPMbutton.Name = "IndexOf_KPMbutton";
+            this.IndexOf_KPMbutton.Size = new System.Drawing.Size(112, 35);
+            this.IndexOf_KPMbutton.TabIndex = 12;
+            this.IndexOf_KPMbutton.Text = "IndexOf_KPM";
+            this.IndexOf_KPMbutton.UseVisualStyleBackColor = true;
+            this.IndexOf_KPMbutton.Click += new System.EventHandler(this.IndexOf_KPMbutton_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Teal;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.IndexOf_KPMbutton);
+            this.Controls.Add(this.IndexOf_KPMBest);
+            this.Controls.Add(this.ALLIndexOff);
             this.Controls.Add(this.reference);
             this.Controls.Add(this.MyIndexOffButton);
             this.Controls.Add(this.label4);
@@ -162,5 +199,8 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button MyIndexOffButton;
         private System.Windows.Forms.Button reference;
+        private System.Windows.Forms.Button ALLIndexOff;
+        private System.Windows.Forms.Button IndexOf_KPMBest;
+        private System.Windows.Forms.Button IndexOf_KPMbutton;
     }
 }
