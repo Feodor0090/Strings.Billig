@@ -25,7 +25,7 @@ namespace WinFormsСтринг
 
         private void reference_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("");
+            MessageBox.Show("Данная форма является практическим применением библиотеки для нахождения паттернов в тексте . Для ввода приветствуются любые символы. Не оставляйте окна ввода пустыми");
         }
 
         private void MyIndexOffButton_Click(object sender, EventArgs e)
