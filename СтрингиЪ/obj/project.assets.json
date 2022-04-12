@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/ansel/.nuget/packages/": {}
+    "C:\\Users\\asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ansel/repos/СтрингиЪ/СтрингиЪ/СтрингиЪ.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\Strings.Billig\\СтрингиЪ\\СтрингиЪ.csproj",
       "projectName": "СтрингиЪ",
-      "projectPath": "/home/ansel/repos/СтрингиЪ/СтрингиЪ/СтрингиЪ.csproj",
-      "packagesPath": "/home/ansel/.nuget/packages/",
-      "outputPath": "/home/ansel/repos/СтрингиЪ/СтрингиЪ/obj/",
+      "projectPath": "C:\\Users\\asus\\Source\\Repos\\Strings.Billig\\СтрингиЪ\\СтрингиЪ.csproj",
+      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\asus\\Source\\Repos\\Strings.Billig\\СтрингиЪ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ansel/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
